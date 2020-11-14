@@ -128,6 +128,7 @@ input-file:
 - Microsoft.Sql/preview/2020-02-02-preview/ServerTrustGroups.json
 - Microsoft.Sql/preview/2020-08-01-preview/databases.json
 - Microsoft.Sql/preview/2020-08-01-preview/elasticPools.json
+- Microsoft.Sql/preview/2020-02-02-preview/DevOpsAudit.json
 
 
 # Needed when there is more than one input file
